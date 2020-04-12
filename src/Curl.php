@@ -1,6 +1,6 @@
 <?php
 
-namespace curl;
+namespace sreeb;
 
 class Curl
 {

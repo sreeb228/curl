@@ -1,13 +1,11 @@
 <?php
 
 
-namespace curl;
+namespace sreeb;
 
 
 class Result
 {
-    private $curl;
-
     private $response;
     private $info;
     private $errno;

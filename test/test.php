@@ -1,8 +1,8 @@
 <?php
-include __DIR__ . '/../src/curl/Curl.php';
-include __DIR__ . '/../src/curl/Result.php';
+include __DIR__ . '/../src/Curl.php';
+include __DIR__ . '/../src/Result.php';
 
-use curl\Curl;
+use sreeb\Curl;
 
 $curl = Curl::getInstance();
 $result = $curl
