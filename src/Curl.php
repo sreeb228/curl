@@ -6,7 +6,6 @@ class Curl
 {
     public $curl;
 
-
     private $_headers;
     private $_cookies;
 
